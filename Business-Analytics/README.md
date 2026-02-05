@@ -5,4 +5,12 @@ focused on decision support, forecasting, customer analytics, and risk modeling.
 
 ## Projects
 - customer churn prediction
+> https://github.com/global-ad-snap/customer_churn_prediction
+- customer segmentation rfm clustering
+>
+- marketing budget optimization analytics
+>
+- sales forecasting m5
+>
+- fraud risk scoring systems
 > 
