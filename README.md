@@ -65,6 +65,10 @@ Projects are structured beyond modeling to reflect real operational environments
 
 *This reflects how AI is actually adopted in clinical, financial, and enterprise settings.*
 
+### Deployment Architecture Overview
+
+![AI Deployment Architecture](deployment-architecture.png)
+
 ---
 
 ## Healthcare AI Portfolio Highlights
