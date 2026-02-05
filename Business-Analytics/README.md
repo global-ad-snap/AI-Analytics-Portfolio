@@ -11,6 +11,6 @@ focused on decision support, forecasting, customer analytics, and risk modeling.
 - marketing budget optimization analytics
 > https://github.com/global-ad-snap/marketing-budget-optimization-analytics
 - sales forecasting m5
->
+> https://github.com/global-ad-snap/Sales_forecasting_m5
 - fraud risk scoring systems
 > 
