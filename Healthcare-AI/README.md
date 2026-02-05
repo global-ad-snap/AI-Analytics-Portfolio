@@ -9,5 +9,5 @@ This folder contains applied healthcare AI and clinical analytics projects, incl
 - Diabetes Readmission Survival Analysis
 > https://github.com/global-ad-snap/diabetic-readmission-survival-analysis
 - Heart Disease Risk Prediction
-> 
+> https://github.com/global-ad-snap/heart-disease-risk-analysis
 
