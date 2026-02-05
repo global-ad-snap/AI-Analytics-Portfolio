@@ -7,7 +7,7 @@ This folder contains applied healthcare AI and clinical analytics projects, incl
 - Diabetic Retinopathy AI Classifier
 > https://github.com/global-ad-snap/diabetic-retinopathy-classifier
 - Diabetes Readmission Survival Analysis
->
+> https://github.com/global-ad-snap/diabetic-readmission-survival-analysis
 - Heart Disease Risk Prediction
 > 
 
