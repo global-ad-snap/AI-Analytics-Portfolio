@@ -71,6 +71,53 @@ Projects are structured beyond modeling to reflect real operational environments
 
 ---
 
+## Responsible & Ethical AI Commitment
+
+Responsible AI principles guide all projects within this portfolio, particularly in healthcare, financial risk analytics, and decision-support applications where model outputs can affect real-world outcomes.
+
+### Bias Assessment & Fairness
+
+Where datasets permit, bias risk is evaluated through:
+
+- Class imbalance analysis
+- Subgroup performance comparison
+- Feature sensitivity review
+- Documentation of dataset limitations
+
+The goal is risk awareness rather than unsupported claims of fairness.
+
+### Transparency & Explainability
+
+Model interpretability is prioritized whenever feasible:
+
+- Explainability techniques (e.g., SHAP, feature attribution, saliency mapping)
+- Clear documentation of model assumptions
+- Decision-support framing rather than automated decision replacement
+
+This supports clinician, analyst, and stakeholder trust.
+
+### Data Governance Awareness
+
+Projects emphasize responsible data handling:
+
+- Awareness of privacy considerations
+- Documentation of dataset provenance and limitations
+- Auditability and reproducibility considerations
+
+No claims are made beyond dataset scope or validation evidence.
+
+### Human Oversight & Safe Deployment
+
+High-stakes applications require human review:
+
+- Human-in-the-loop workflows encouraged
+- Conservative performance interpretation
+- Monitoring recommendations for post-deployment safety
+
+AI systems should augment expert decision-making, not replace it.
+
+---
+
 ## Healthcare AI Portfolio Highlights
 
 Representative themes include:
