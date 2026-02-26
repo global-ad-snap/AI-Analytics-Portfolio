@@ -132,7 +132,9 @@ Representative themes include:
 
 ## Business Analytics Portfolio Highlights
 
-Projects focus on measurable organizational impact:
+Projects focus on measurable organizational impact and capital-efficient decision-making:
+- Customer Lifetime Value (CLV) & Profit Optimization — Revenue concentration analysis, retention ROI modeling, and
+  executive decision-support dashboard
 - Customer segmentation for revenue optimization
 - Fraud risk scoring with governance considerations
 - Marketing analytics and ROI evaluation
