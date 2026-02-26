@@ -27,7 +27,7 @@ Time-series forecasting framework for demand and revenue prediction, designed to
 ### Customer Lifetime Value (CLV) Prediction & Profit Optimization
 End-to-end predictive framework integrating probabilistic modeling, machine learning, and retention ROI simulation to support revenue concentration strategy and capital-efficient customer investment decisions.
 
->  https://github.com/global-ad-snap/customer_lifetime_value_prediction
+>  https://github.com/global-ad-snap/customer-lifetime-value-clv-analytics
 
 ### Fraud Detection Risk Scoring 
 End-to-end fraud detection framework with risk scoring, governance considerations, and operational deployment focus for financial services, insurance, and enterprise analytics environments.
